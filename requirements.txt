@@ -1,0 +1,4 @@
+google-genai
+numpy
+pandas
+python-dotenv

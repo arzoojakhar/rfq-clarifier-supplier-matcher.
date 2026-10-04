@@ -1,0 +1,61 @@
+supplier_id,name,city,state,category,products,specs,min_order_qty,price_range_inr,verified
+S001,Rajdhani Steel Tubes,Ghaziabad,Uttar Pradesh,Steel Pipes & Fittings,"GI pipes, MS pipes, ERW pipes","Sizes 15mm-300mm NB; IS 1239 / IS 3589; class A/B/C",500 metres,Rs 85-140 per metre,yes
+S002,Anand Pipe Industries,Ahmedabad,Gujarat,Steel Pipes & Fittings,"Stainless steel pipes SS304 SS316, SS flanges, elbows","Seamless and welded; 10mm-200mm; schedule 10/40",200 metres,Rs 220-480 per metre,yes
+S003,Vikram Metals & Tubes,Raipur,Chhattisgarh,Steel Pipes & Fittings,"MS seamless pipes, boiler tubes","IS 1161; OD 21mm-219mm; thickness 2-12mm",1 tonne,Rs 62000-78000 per tonne,no
+S004,Shree Balaji Fittings,Jamnagar,Gujarat,Steel Pipes & Fittings,"Pipe fittings: elbows, tees, reducers, flanges (MS, GI)","1/2 inch-12 inch; ASTM A234; forged and butt-weld",100 pieces,Rs 40-1800 per piece,yes
+S005,Northern Galvanizers,Ludhiana,Punjab,Steel Pipes & Fittings,"Hot-dip galvanised pipes, GI conduit pipes","Zinc coating 120-300 gsm; 20mm-150mm",300 metres,Rs 95-210 per metre,yes
+S006,PackWell Corrugators,Noida,Uttar Pradesh,Packaging,"Corrugated boxes, die-cut cartons","3-ply and 5-ply; custom sizes; 150-350 GSM kraft",1000 pieces,Rs 12-45 per piece,yes
+S007,Southern Cartons,Coimbatore,Tamil Nadu,Packaging,"Printed cartons, mono cartons for food and pharma","Duplex board 250-400 GSM; offset printing up to 4 colours",2000 pieces,Rs 3-18 per piece,yes
+S008,Eastern Poly Packs,Kolkata,West Bengal,Packaging,"BOPP bags, laminated pouches, stand-up pouches","Thickness 30-120 micron; zipper and spout options",5000 pieces,Rs 2-9 per piece,no
+S009,Deccan Packaging Works,Hyderabad,Telangana,Packaging,"Bubble wrap rolls, stretch film, packing tape","Bubble wrap 1m x 100m; stretch film 17-23 micron; BOPP tape 48mm",50 rolls,Rs 180-900 per roll,yes
+S010,Western Foam & Wrap,Pune,Maharashtra,Packaging,"EPE foam sheets, thermocol packaging, foam inserts","Thickness 1-50mm; density 20-45 kg/m3; custom die-cut",200 pieces,Rs 8-150 per piece,no
+S011,Bharat Bolts & Nuts,Ludhiana,Punjab,Fasteners,"Hex bolts, nuts, washers, studs","M6-M36; grade 4.6, 8.8, 10.9; zinc plated and black",5000 pieces,Rs 1.5-60 per piece,yes
+S012,Precision Fasteners India,Rajkot,Gujarat,Fasteners,"Stainless steel bolts, screws, anchor bolts","SS304 and SS316; M3-M24; DIN 933 / DIN 912",2000 pieces,Rs 2-95 per piece,yes
+S013,Metro Screw Works,Mumbai,Maharashtra,Fasteners,"Self-tapping screws, wood screws, drywall screws","No. 6 to No. 14; length 10-100mm; phosphate and zinc finish",10000 pieces,Rs 0.4-6 per piece,no
+S014,Kaveri Industrial Fixings,Chennai,Tamil Nadu,Fasteners,"Anchor fasteners, expansion bolts, foundation bolts, U-bolts","M8-M30; hot-dip galvanised and mild steel; length 50-600mm",500 pieces,Rs 8-350 per piece,yes
+S015,Himalaya Rivets & Pins,Faridabad,Haryana,Fasteners,"Rivets, split pins, dowel pins, circlips","Aluminium and steel; 2mm-12mm",10000 pieces,Rs 0.3-8 per piece,no
+S016,Surat Weave Mills,Surat,Gujarat,Textiles,"Polyester dress fabric, georgette, crepe","Width 44-58 inch; 60-120 GSM",500 metres,Rs 45-160 per metre,yes
+S017,Tirupur Knit Exports,Tirupur,Tamil Nadu,Textiles,"Cotton knit fabric, jersey, rib, fleece","100% cotton; 140-320 GSM; combed and carded",300 kg,Rs 280-520 per kg,yes
+S018,Panipat Home Textiles,Panipat,Haryana,Textiles,"Blankets, bed sheets, curtains, cushion covers","Cotton and polyester blends; king, queen, single sizes",200 pieces,Rs 150-900 per piece,yes
+S019,Jaipur Block Prints,Jaipur,Rajasthan,Textiles,"Hand block printed cotton fabric, dupattas, bedcovers","Cotton voile and cambric; natural and azo-free dyes",100 metres,Rs 90-350 per metre,no
+S020,Ludhiana Woollen Co,Ludhiana,Punjab,Textiles,"Woollen yarn, shawls, blankets","Merino blend; 2/28 to 2/60 count",100 kg,Rs 350-900 per kg,yes
+S021,Brightline LED Systems,Noida,Uttar Pradesh,LED Lighting,"LED bulbs, tube lights, panel lights","9W-40W; 6500K, 4000K, 3000K; BIS certified; 50000 hr life",500 pieces,Rs 45-420 per piece,yes
+S022,Lumina Industrial Lights,Vadodara,Gujarat,LED Lighting,"LED high bay, flood lights, street lights","50W-300W; IP65; 130 lm/W; aluminium die-cast body",50 pieces,Rs 1200-9500 per piece,yes
+S023,Sparkle Decor Lighting,Delhi,Delhi,LED Lighting,"Decorative LED strips, string lights, chandeliers","12V and 24V strips; 60-120 LED per metre; RGB and warm white",100 pieces,Rs 90-3500 per piece,no
+S024,Eastern Solar Lamps,Guwahati,Assam,LED Lighting,"Solar street lights, solar garden lights","20W-120W; lithium battery; 8-12 hr backup",20 pieces,Rs 3500-22000 per piece,no
+S025,Orbit Lighting Components,Mumbai,Maharashtra,LED Lighting,"LED drivers, SMPS, lamp holders, lighting accessories","12W-150W; constant current and constant voltage; 90-300V input",200 pieces,Rs 60-1400 per piece,yes
+S026,Gujarat Cables & Conductors,Ahmedabad,Gujarat,Electrical Cables,"House wiring cables, FR PVC wires","1.0-6.0 sq mm; copper; IS 694; 90 m coils",50 coils,Rs 1100-6800 per coil,yes
+S027,Capital Power Cables,Delhi,Delhi,Electrical Cables,"LT armoured cables, XLPE cables","1.1kV; 2-4 core; 4-300 sq mm; aluminium and copper",500 metres,Rs 60-2400 per metre,yes
+S028,Sundaram Wires,Coimbatore,Tamil Nadu,Electrical Cables,"Submersible pump cables, flexible cables","Flat and round; 1.5-10 sq mm; 3-4 core",200 metres,Rs 35-420 per metre,no
+S029,Rhine Control Cables,Pune,Maharashtra,Electrical Cables,"Control cables, instrumentation cables, shielded cables","0.5-2.5 sq mm; 2-24 core; PVC and LSZH",300 metres,Rs 25-310 per metre,yes
+S030,Kanpur Cable Works,Kanpur,Uttar Pradesh,Electrical Cables,"Aluminium conductors, ACSR, service cables","ACSR rabbit and dog; 10-100 sq mm; overhead line use",1 km,Rs 55-210 per metre,no
+S031,Kerala Spice Traders,Kochi,Kerala,Food & Spices,"Black pepper, cardamom, cloves, turmeric","Whole and ground; FSSAI; 500 g-25 kg packs",100 kg,Rs 300-3200 per kg,yes
+S032,Guntur Chilli Exports,Guntur,Andhra Pradesh,Food & Spices,"Dry red chilli, chilli powder","Teja S17 and 334; 40000-90000 SHU; stemless and with stem",500 kg,Rs 130-340 per kg,yes
+S033,Karnal Basmati Mills,Karnal,Haryana,Food & Spices,"Basmati rice, steam and sella","1121 and Pusa; 8.3mm+ grain length; 25 and 50 kg bags",1 tonne,Rs 70-130 per kg,yes
+S034,Nashik Agro Foods,Nashik,Maharashtra,Food & Spices,"Dehydrated onion, garlic flakes, tomato powder","Flakes and powder; moisture under 6%; 10-25 kg bags",500 kg,Rs 90-260 per kg,no
+S035,Unjha Seeds & Co,Unjha,Gujarat,Food & Spices,"Cumin, fennel, coriander, sesame seeds","Machine cleaned; 99% purity; 25-50 kg bags",500 kg,Rs 85-480 per kg,yes
+S036,Daman Polymers,Daman,Daman and Diu,Plastics,"HDPE granules, LDPE granules, PP granules","Injection and blow moulding grades; 25 kg bags",1 tonne,Rs 95-140 per kg,yes
+S037,Vapi Plastic Industries,Vapi,Gujarat,Plastics,"HDPE pipes and fittings","20mm-315mm; PE100; PN6-PN16; coils and lengths",500 metres,Rs 22-1800 per metre,yes
+S038,Okhla Moulders,Delhi,Delhi,Plastics,"Custom injection moulded parts, plastic containers","ABS, PP, nylon; moulds designed in-house",1000 pieces,Rs 3-180 per piece,no
+S039,Bengal Poly Bags,Howrah,West Bengal,Plastics,"HDPE carry bags, garbage bags, LDPE covers","20-100 micron; custom printing; biodegradable options",100 kg,Rs 120-210 per kg,yes
+S040,Madurai PVC Products,Madurai,Tamil Nadu,Plastics,"PVC pipes, conduits, fittings","20mm-160mm; 6-10 kg/cm2; IS 4985",300 metres,Rs 18-420 per metre,yes
+S041,Rajkot Precision Components,Rajkot,Gujarat,Machinery & Parts,"CNC turned parts in brass and steel","Tolerance +/-0.02mm; dia 3-100mm; brass, SS, MS",500 pieces,Rs 8-400 per piece,yes
+S042,Pune Tooling Solutions,Pune,Maharashtra,Machinery & Parts,"Jigs, fixtures, press tools, dies","Tool steel D2 and H13; design to delivery 3-6 weeks",1 set,Rs 25000-450000 per set,yes
+S043,Faridabad Gears & Drives,Faridabad,Haryana,Machinery & Parts,"Spur gears, helical gears, gearboxes","Module 1-10; EN8 and EN24; hardened and ground",20 pieces,Rs 350-28000 per piece,no
+S044,Coimbatore Castings,Coimbatore,Tamil Nadu,Machinery & Parts,"Grey iron and SG iron castings","Up to 500 kg per piece; sand casting; machined on request",100 pieces,Rs 60-150 per kg,yes
+S045,Batala Machine Works,Batala,Punjab,Machinery & Parts,"Lathe machines, drilling machines, shapers","Centre height 150-300mm; 1-3 m bed",1 unit,Rs 85000-650000 per unit,no
+S046,SunGrid Modules,Greater Noida,Uttar Pradesh,Solar,"Solar panels, mono PERC","Rated 335W-550W; 25-year warranty; BIS and MNRE listed",50 panels,Rs 14-22 per watt,yes
+S047,Gujarat Solar Inverters,Gandhinagar,Gujarat,Solar,"On-grid and hybrid solar inverters","1kW-50kW; MPPT; WiFi monitoring",5 units,Rs 15000-420000 per unit,yes
+S048,Rajasthan Solar Mounting,Jodhpur,Rajasthan,Solar,"Solar mounting structures, GI and aluminium","Rooftop and ground mount; 1kW-1MW; hot-dip galvanised",10 kW,Rs 3500-5500 per kW,yes
+S049,Bangalore Battery Systems,Bengaluru,Karnataka,Solar,"Solar batteries, tubular and lithium","12V 100-200Ah tubular; 48V lithium; 5-year warranty",5 units,Rs 9000-85000 per unit,no
+S050,Solar Pumps India,Indore,Madhya Pradesh,Solar,"Solar water pumps, AC and DC","1HP-10HP; surface and submersible; with controller",2 units,Rs 38000-380000 per unit,yes
+S051,SafeGuard Industrial,Mumbai,Maharashtra,Safety & PPE,"Safety helmets, goggles, ear plugs","IS 2925 helmets; ANSI Z87 goggles; 25 dB ear plugs",100 pieces,Rs 25-380 per piece,yes
+S052,Kanpur Safety Footwear,Kanpur,Uttar Pradesh,Safety & PPE,"Safety shoes and gumboots","Steel toe; 200J impact; slip resistant; sizes 5-12",50 pairs,Rs 450-1600 per pair,yes
+S053,Jalandhar Protective Gloves,Jalandhar,Punjab,Safety & PPE,"Cut-resistant, nitrile, leather gloves","Cut level 3-5; sizes S-XL",200 pairs,Rs 18-420 per pair,no
+S054,Delhi Workwear Co,Delhi,Delhi,Safety & PPE,"Industrial uniforms, coveralls, high-visibility jackets","Cotton and polycotton; custom logo; sizes S-3XL",50 pieces,Rs 350-1800 per piece,yes
+S055,Hyderabad Fire Safety,Hyderabad,Telangana,Safety & PPE,"Fire extinguishers, fire blankets, safety signage","ABC powder 1-9 kg; CO2 2-4.5 kg; ISI marked",10 pieces,Rs 700-9500 per piece,yes
+S056,Rajkot Pump Works,Rajkot,Gujarat,Pumps,"Centrifugal pumps, monoblock pumps","0.5-15 HP; head up to 60 m; cast iron body",5 units,Rs 6500-95000 per unit,yes
+S057,Coimbatore Submersibles,Coimbatore,Tamil Nadu,Pumps,"Borewell submersible pumps","3-7.5 HP; 4 inch to 6 inch; 50-250 m head",2 units,Rs 14000-72000 per unit,yes
+S058,Ahmedabad Dosing Systems,Ahmedabad,Gujarat,Pumps,"Dosing pumps, diaphragm pumps","0.5-500 L/hr; PP, PVDF, SS wetted parts",2 units,Rs 12000-180000 per unit,no
+S059,Vasai Fire Pumps,Vasai,Maharashtra,Pumps,"Fire fighting pumps, jockey pumps","Electric and diesel; 1000-2000 LPM; complete sets",1 unit,Rs 120000-850000 per unit,yes
+S060,Lucknow Hand Pumps,Lucknow,Uttar Pradesh,Pumps,"India Mark II hand pumps, spare parts","Cast iron; 30-90 m depth; ISI marked",10 units,Rs 6500-22000 per unit,no
